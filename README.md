@@ -3,4 +3,11 @@
 <p>Students: Clarel Spies, Mateus Leonhardt</p>
 
 <h2>How to run the application</h2>
-<p>Download the project as ZIP, extract and then open the INDEX file in your browser. :)</p>
+
+<ol>
+    <li>Download the project as ZIP</li>
+    <li>Extract the data</li>
+    <li>Open the INDEX file in your browser</li>
+    <li>Use the example shown on page</li>
+    <li>Done!</li>
+</ol>
